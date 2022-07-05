@@ -1,0 +1,15 @@
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/bin/Debug/net6.0/BasicForLoop
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/bin/Debug/net6.0/BasicForLoop.deps.json
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/bin/Debug/net6.0/BasicForLoop.runtimeconfig.json
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/bin/Debug/net6.0/BasicForLoop.dll
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/bin/Debug/net6.0/BasicForLoop.pdb
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.csproj.AssemblyReference.cache
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.AssemblyInfoInputs.cache
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.AssemblyInfo.cs
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.csproj.CoreCompileInputs.cache
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.dll
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/refint/BasicForLoop.dll
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.pdb
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/BasicForLoop.genruntimeconfig.cache
+/Users/elberfunez/Projects/UnitTwo_BasicForLoop/BasicForLoop/obj/Debug/net6.0/ref/BasicForLoop.dll
